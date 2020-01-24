@@ -1,0 +1,99 @@
+[gd_scene load_steps=24 format=2]
+
+[ext_resource path="res://audio/chants/placeholder/1.wav" type="AudioStream" id=1]
+[ext_resource path="res://audio/chants/placeholder/2.wav" type="AudioStream" id=2]
+[ext_resource path="res://audio/chants/placeholder/3.wav" type="AudioStream" id=3]
+[ext_resource path="res://audio/chants/placeholder/4.wav" type="AudioStream" id=4]
+[ext_resource path="res://audio/chants/placeholder/5.wav" type="AudioStream" id=5]
+[ext_resource path="res://audio/chants/placeholder/6.wav" type="AudioStream" id=6]
+[ext_resource path="res://audio/chants/placeholder/7.wav" type="AudioStream" id=7]
+[ext_resource path="res://audio/chants/placeholder/8.wav" type="AudioStream" id=8]
+[ext_resource path="res://audio/chants/placeholder/9.wav" type="AudioStream" id=9]
+[ext_resource path="res://audio/chants/placeholder/10.wav" type="AudioStream" id=10]
+[ext_resource path="res://audio/chants/placeholder/11.wav" type="AudioStream" id=11]
+[ext_resource path="res://audio/chants/placeholder/12.wav" type="AudioStream" id=12]
+[ext_resource path="res://audio/chants/placeholder/13.wav" type="AudioStream" id=13]
+[ext_resource path="res://audio/chants/placeholder/14.wav" type="AudioStream" id=14]
+[ext_resource path="res://audio/chants/placeholder/15.wav" type="AudioStream" id=15]
+[ext_resource path="res://audio/chants/placeholder/16.wav" type="AudioStream" id=16]
+[ext_resource path="res://audio/chants/placeholder/17.wav" type="AudioStream" id=17]
+[ext_resource path="res://audio/chants/placeholder/18.wav" type="AudioStream" id=18]
+[ext_resource path="res://audio/chants/placeholder/19.wav" type="AudioStream" id=19]
+[ext_resource path="res://audio/chants/placeholder/20.wav" type="AudioStream" id=20]
+[ext_resource path="res://audio/chants/placeholder/counter.wav" type="AudioStream" id=21]
+[ext_resource path="res://audio/chants/placeholder/lightdamage.wav" type="AudioStream" id=22]
+[ext_resource path="res://audio/chants/placeholder/heavydamage.wav" type="AudioStream" id=23]
+
+[node name="Character" type="Node2D"]
+
+[node name="Chants" type="Node" parent="."]
+
+[node name="1" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 1 )
+
+[node name="2" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 2 )
+
+[node name="3" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 3 )
+
+[node name="4" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 4 )
+
+[node name="5" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 5 )
+
+[node name="6" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 6 )
+
+[node name="7" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 7 )
+
+[node name="8" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 8 )
+
+[node name="9" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 9 )
+
+[node name="10" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 10 )
+
+[node name="11" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 11 )
+
+[node name="12" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 12 )
+
+[node name="13" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 13 )
+
+[node name="14" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 14 )
+
+[node name="15" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 15 )
+
+[node name="16" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 16 )
+
+[node name="17" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 17 )
+
+[node name="18" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 18 )
+
+[node name="19" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 19 )
+
+[node name="20" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 20 )
+
+[node name="counter" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 21 )
+
+[node name="lightdamage" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 22 )
+
+[node name="heavydamage" type="AudioStreamPlayer" parent="Chants"]
+stream = ExtResource( 23 )
+

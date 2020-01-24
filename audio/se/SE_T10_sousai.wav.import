@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SE_T10_sousai.wav-e6f27d1958e7ed9e3ec45e37b86236df.sample"
+
+[deps]
+
+source_file="res://audio/se/SE_T10_sousai.wav"
+dest_files=[ "res://.import/SE_T10_sousai.wav-e6f27d1958e7ed9e3ec45e37b86236df.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

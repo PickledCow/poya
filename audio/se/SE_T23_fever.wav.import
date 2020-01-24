@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SE_T23_fever.wav-7915ddc13177d032f16691e294cb6702.sample"
+
+[deps]
+
+source_file="res://audio/se/SE_T23_fever.wav"
+dest_files=[ "res://.import/SE_T23_fever.wav-7915ddc13177d032f16691e294cb6702.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

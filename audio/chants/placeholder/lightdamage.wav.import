@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/lightdamage.wav-12a0f8edfff924fd1067dc4d37850e3a.sample"
+
+[deps]
+
+source_file="res://audio/chants/placeholder/lightdamage.wav"
+dest_files=[ "res://.import/lightdamage.wav-12a0f8edfff924fd1067dc4d37850e3a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

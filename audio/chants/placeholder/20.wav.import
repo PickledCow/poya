@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/20.wav-3fe772aeaf4c4580103277c1585e6fbf.sample"
+
+[deps]
+
+source_file="res://audio/chants/placeholder/20.wav"
+dest_files=[ "res://.import/20.wav-3fe772aeaf4c4580103277c1585e6fbf.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

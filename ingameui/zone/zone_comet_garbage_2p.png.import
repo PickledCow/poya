@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/zone_comet_garbage_2p.png-7a8f756521abd0b433c4d4b189122271.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://ingameui/zone/zone_comet_garbage_2p.png"
+dest_files=[ "res://.import/zone_comet_garbage_2p.png-7a8f756521abd0b433c4d4b189122271.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SE_T03_ren4.wav-1794ed2caf162614af85e84c01b6c598.sample"
+
+[deps]
+
+source_file="res://audio/se/SE_T03_ren4.wav"
+dest_files=[ "res://.import/SE_T03_ren4.wav-1794ed2caf162614af85e84c01b6c598.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
